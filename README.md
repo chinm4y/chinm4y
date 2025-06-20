@@ -35,12 +35,44 @@ I'm a graduate student at **Northeastern University**, currently diving deep int
 
 ## 🛠️ My Toolkit
 
-**Languages**: Python, Java, SQL, C/C++, JavaScript, PHP  
-**Databases**: Firebase, PostgreSQL, MongoDB, Snowflake, ADLS, Redis  
-**Dashboards & Viz**: Power BI, Tableau, QlikView, QuickSight  
-**ML/NLP Tools**: scikit-learn, Transformers (Hugging Face), NLTK, XGBoost  
-**ETL & Cloud**: Talend, Alteryx, Azure Data Factory, Databricks  
-**Other Tools**: Jupyter, GitHub, Figma, Jira, Postman, Excel
+### Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Databases & Cloud  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### Data Viz & BI  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![QlikView](https://img.shields.io/badge/QlikView-009639?style=for-the-badge&logo=qlik&logoColor=white)
+
+### ML / NLP  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-008000?style=for-the-badge&logo=OpenAI&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-282C34?style=for-the-badge&logo=nltk&logoColor=white)
+
+### ETL & Big Data  
+![Talend](https://img.shields.io/badge/Talend-0095D5?style=for-the-badge&logo=talend&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-0077C0?style=for-the-badge&logo=alteryx&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-EA1A1A?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0063B1?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### Tools & Platforms  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 ---
 
